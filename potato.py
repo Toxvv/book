@@ -17,4 +17,3 @@ number=7
 final=hotPotato(namelist,number)
 print(final)
 
-11111111
